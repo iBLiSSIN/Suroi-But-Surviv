@@ -1,2 +1,1 @@
-# Suroi-But-Surviv
-A changer (with Resource Override) that make suroi.io becomes more the same with surviv.io? idk lol
+# Note: Suroi.io'll update more weapons so I'll update the mod as soon as I can too
